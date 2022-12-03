@@ -10,6 +10,10 @@ set number
 syntax enable 
 source ~/.config/nvim/.vim/plugins.vim
 source ~/.config/nvim/.vim/plugin-config.vim
+source ~/.config/nvim/.vim/lualine.vim
+source ~/.config/nvim/.vim/nvim-tree.vim
+source ~/.config/nvim/.vim/dev-icons.vim
+source ~/.config/nvim/.vim/nvim-tree.vim
 source ~/.config/nvim/.vim/maps.vim
 
 colorscheme gruvbox

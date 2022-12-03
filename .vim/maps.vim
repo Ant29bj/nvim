@@ -11,7 +11,7 @@ nmap <A-k> :lua require('smart-splits').resize_up()<CR>
 nmap <A-l> :lua require('smart-splits').resize_right()<CR>
 
 " Open neerd Tree
-nmap <Leader>nt :NERDTreeFind<CR>
+nmap <Leader>nt :NvimTreeToggle<CR>
 " Refrescar nerdtree
 nmap <C-r> : NERDTreeRefreshRoot<CR>
 
